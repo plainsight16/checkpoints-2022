@@ -66,4 +66,4 @@
 
 - And in conjunction, I have also commenced a course in react on scrimba...i know doing two things at the same time but omo no time no time abeg, gotta make this money and react is where the money is at.
 
-- And as April ends today, one last thing, like a teaser or a bomb, see it as you will..LOL. But I'm torn between backend and frontend...let's discuss this further in May..
+- And as April ends today, one last thing, like a teaser or a bomb, see it as you will. :joy: . But I'm torn between backend and frontend...let's discuss this further in May..
